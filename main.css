@@ -72,6 +72,10 @@ header, h1 {
     margin-bottom: 20px;
 }
 
+textarea {
+    resize: none;
+}
+
 @media (max-width: 767px) {
     .carousel-item img {
         height: 280px;
